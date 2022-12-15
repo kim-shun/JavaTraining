@@ -1014,3 +1014,257 @@
 2022-12-15 16:14:57,039 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-12-15 16:14:57,040 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-12-15 16:14:57,041 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:24:26,902 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:24:26,904 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:24:26,905 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:24:26,907 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:25:10,825 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:25:10,826 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:25:10,827 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:25:10,828 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:27:34,551 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:27:34,553 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:27:34,554 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:27:34,555 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:29:24,743 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:29:24,744 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:29:24,745 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:29:24,746 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:29:38,047 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:29:38,048 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:29:38,049 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:29:38,050 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:29:49,391 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:29:49,392 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:29:49,393 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:29:49,393 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:33:47,283 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:33:47,285 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:33:47,288 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:33:47,290 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:34:25,581 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:34:25,582 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:34:25,583 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:34:25,584 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:37:00,635 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:37:00,637 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:37:00,638 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:37:00,640 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:37:24,051 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:37:24,051 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:37:24,052 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:37:24,053 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:37:45,930 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:37:45,931 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:37:45,932 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:37:45,933 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:40:25,187 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:40:25,190 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:40:25,191 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:40:25,191 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:42:42,492 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:42:42,494 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:42:42,495 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:42:42,496 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:43:20,603 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:43:20,605 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:43:20,606 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:43:20,607 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:46:33,149 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:46:33,152 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:46:33,153 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:46:33,154 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:49:21,549 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:49:21,550 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:49:21,551 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:49:21,551 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:49:33,299 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:49:33,301 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:49:33,303 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:49:33,304 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:50:24,365 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:50:24,365 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:50:24,366 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:50:24,367 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:55:17,681 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:55:17,683 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:55:17,684 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:55:17,685 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:56:00,681 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:56:00,682 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:56:00,683 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:56:00,683 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:58:18,222 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:58:18,224 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:58:18,225 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:58:18,225 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:59:21,093 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:59:21,097 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 16:59:21,098 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 16:59:21,099 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:00:15,762 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:00:15,765 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:00:15,770 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:00:15,771 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:01:16,510 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:01:16,514 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:01:16,515 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:01:16,516 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:01:35,351 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:01:35,352 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:01:35,353 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:01:35,354 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:02:20,889 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:02:20,891 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:02:20,905 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:02:20,908 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:02:26,512 [Worker-8: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:02:26,528 [Worker-8: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-15 17:02:31,799 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:02:31,800 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:02:31,801 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:02:31,802 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:02:38,674 [Worker-13: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:02:38,675 [Worker-13: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-15 17:02:42,319 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:02:42,321 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:02:42,322 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:02:42,323 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:03:25,955 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:03:25,957 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:03:25,958 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:03:25,959 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:03:30,040 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:03:30,041 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:03:30,042 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:03:30,043 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:04:03,384 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:04:03,385 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:04:03,386 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:04:03,387 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:04:09,256 [Worker-16: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:04:09,256 [Worker-16: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-15 17:04:12,313 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:04:12,315 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:04:12,317 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:04:12,318 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:04:24,202 [Worker-14: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:04:24,202 [Worker-14: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-15 17:04:25,878 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:04:25,879 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:04:25,880 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:04:25,881 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:04:36,246 [Worker-17: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:04:36,246 [Worker-17: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-15 17:04:39,142 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:04:39,145 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:04:39,147 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:04:39,149 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:06:03,418 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:06:03,419 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:06:03,420 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:06:03,420 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:07:01,174 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:07:01,176 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:07:01,177 [Worker-16: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:07:01,177 [Worker-16: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:07:40,972 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:07:40,973 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:07:40,975 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:07:40,976 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:09:32,692 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:09:32,694 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:09:32,694 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:09:32,695 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:09:41,074 [Worker-17: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:09:41,074 [Worker-17: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-15 17:09:42,961 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:09:42,963 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:09:42,964 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:09:42,966 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:09:49,880 [Worker-16: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:09:49,880 [Worker-16: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-15 17:09:54,711 [Worker-18: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:09:54,714 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:09:54,715 [Worker-18: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:09:54,716 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:10:59,021 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:10:59,022 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:10:59,023 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:10:59,024 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:13:21,659 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:13:21,660 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:13:21,661 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:13:21,661 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:13:43,407 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:13:43,408 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:13:43,409 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:13:43,409 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:16:43,505 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:16:43,507 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:16:43,508 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:16:43,509 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:17:07,398 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:17:07,399 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:17:07,400 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:17:07,401 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:18:12,448 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:18:12,448 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:18:12,449 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:18:12,449 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:18:33,977 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:18:33,978 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:18:33,979 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:18:33,980 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:18:55,666 [Worker-18: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:18:55,667 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:18:55,668 [Worker-18: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:18:55,669 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:19:15,380 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:19:15,381 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:19:15,382 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:19:15,383 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:19:46,520 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:19:46,520 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:19:46,521 [Worker-17: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:19:46,522 [Worker-17: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:22:07,164 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:22:07,165 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:22:07,166 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:22:07,167 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:29:24,412 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:29:24,413 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:29:24,414 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:29:24,415 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:30:21,117 [Worker-18: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:30:21,117 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:30:21,118 [Worker-18: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:30:21,119 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:30:51,084 [Worker-14: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:30:51,084 [Worker-14: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-15 17:30:52,878 [Worker-18: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:30:52,881 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:30:52,882 [Worker-18: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:30:52,883 [Worker-18: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:30:58,187 [Worker-17: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:30:58,188 [Worker-17: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-15 17:31:02,288 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:31:02,291 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:31:02,292 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:31:02,293 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:31:10,754 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:31:10,754 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:31:10,755 [Worker-13: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:31:10,756 [Worker-13: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:31:16,406 [Worker-16: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:31:16,406 [Worker-16: Executing clean in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-15 17:31:18,138 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:31:18,139 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:31:18,140 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:31:18,141 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:31:22,567 [Worker-14: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/kimurashunsuke/JavaTraining/SampleProject
+2022-12-15 17:31:22,567 [Worker-14: Executing install in _Users_kimurashunsuke_JavaTraining_SampleProject の起動] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-15 17:31:26,860 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:31:26,863 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-15 17:31:26,864 [Worker-14: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-15 17:31:26,865 [Worker-14: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

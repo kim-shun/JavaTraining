@@ -21,5 +21,21 @@ class CalculatorTest {
 		int result = Calculator.absAdd(5, -6);
 		assertThat(result, is(11));
 	}
-
+	
+//	@Test
+//	@DisplayName("文字列の入力値が正しいこと")
+//	public void strInputCheck() {
+//	    String input = "test";
+//	    InputStream in = new ByteArrayInputStream(input.getBytes());
+//	    System.setIn(in);
+//
+//	    assertEquals("test", Calculator.getStrInput());
+//	}
+//	
+//	@Test
+//	@DisplayName("文字列は数値判定されない")
+//	public void numericCheck() {
+//		boolean result = Calculator.isNumeric("test");
+//		assertEquals(result, is("false"));
+//	}
 }
