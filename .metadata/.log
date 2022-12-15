@@ -12822,3 +12822,101 @@ Binding(COMMAND+SHIFT+-,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-12-15 16:00:17.810
 !MESSAGE executing callback sts4.classpath.OfZTkyRP SUCCESS [done]
+
+!ENTRY org.eclipse.jface 2 0 2022-12-15 16:01:15.468
+!MESSAGE キーバインドの競合が発生しました。 通常のアクセラレーター操作を妨げる可能性があります。
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-12-15 16:01:15.468
+!MESSAGE COMMAND+- の競合が発生しました:
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.gef.zoom_out,ズームアウト,
+		ズームアウト,
+		Category(org.eclipse.gef.category.view,ビュー,ビュー,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5ca69552,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.zoomOut,ズームアウト,
+		テキストのズーム・アウト - テキスト・エディターのデフォルト・フォント・サイズを小さくします,
+		Category(org.eclipse.ui.category.textEditor,テキスト編集,テキスト編集コマンド,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5b7ec35a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+-,
+	ParameterizedCommand(Command(junit.extensions.eclipse.quick.pde.command.PDEJUnitRunAction,JUnit Plug-in テスト,
+		PDE JUnitでテストを実行します．,
+		Category(junit.extensions.eclipse.quick.command.category,Quick JUnit,Quick JUnitアクション,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@463ffc84,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2022-12-15 16:04:49.370
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:04:55.991
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:04:55.999
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:05:23.829
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:05:23.832
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:07:39.962
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:07:39.964
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:08:42.977
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:08:42.979
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:08:59.889
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:08:59.891
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:12:11.835
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:12:11.837
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:12:20.319
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:12:20.321
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-12-15 16:14:15.847
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:14:40.223
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:14:40.226
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:14:57.038
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-15 16:14:57.040
+!MESSAGE プラットフォームのエンコーディング (実際は UTF-8) を使用してフィルターされたリソースをコピーします。つまり、ビルドはプラットフォームに依存します!

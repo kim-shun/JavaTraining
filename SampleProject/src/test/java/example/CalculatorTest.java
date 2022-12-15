@@ -11,10 +11,15 @@ class CalculatorTest {
 	@Test
 	@DisplayName("ともに自然数")
 	public void naturals() {
-		int result = Calculator.absAdd(3,5);
-		
-		assertThat(result, is(8));
-
+		int result = Calculator.absAdd(5, 6);
+		assertThat(result, is(11));
+	}
+	
+	@Test
+	@DisplayName("1つが負の値")
+	public void minusCheck() {
+		int result = Calculator.absAdd(5, -6);
+		assertThat(result, is(11));
 	}
 
 }
