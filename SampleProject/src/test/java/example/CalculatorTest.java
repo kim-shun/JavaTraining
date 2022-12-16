@@ -2,6 +2,10 @@ package example;
 
 import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.MatcherAssert.*;
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.io.ByteArrayInputStream;
+import java.io.InputStream;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -21,21 +25,26 @@ class CalculatorTest {
 		int result = Calculator.absAdd(5, -6);
 		assertThat(result, is(11));
 	}
+	@Test
+	@DisplayName("文字列は数値判定されない")
+	public void strCheck() {
+		boolean result = Calculator.isNumeric("test");
+		assertThat(result, is(false));
+	}
+	@Test
+	@DisplayName("数値は数値判定される")
+	public void intCheck() {
+		boolean result = Calculator.isNumeric("7");
+		assertThat(result, is(true));
+	}
 	
-//	@Test
-//	@DisplayName("文字列の入力値が正しいこと")
-//	public void strInputCheck() {
-//	    String input = "test";
-//	    InputStream in = new ByteArrayInputStream(input.getBytes());
-//	    System.setIn(in);
-//
-//	    assertEquals("test", Calculator.getStrInput());
-//	}
-//	
-//	@Test
-//	@DisplayName("文字列は数値判定されない")
-//	public void numericCheck() {
-//		boolean result = Calculator.isNumeric("test");
-//		assertEquals(result, is("false"));
-//	}
+	@Test
+	@DisplayName("文字列の入力値が正しいこと")
+	public void strInputCheck() {
+	    String input = "test";
+	    InputStream in = new ByteArrayInputStream(input.getBytes());
+	    System.setIn(in);
+
+	    assertEquals("test", Calculator.getStrInput());
+	}
 }

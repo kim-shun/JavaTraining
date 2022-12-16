@@ -1,5 +1,6 @@
 package example;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
@@ -7,17 +8,30 @@ import java.util.Scanner;
  *
  */
 public class Calculator {
-	
+
 	final static String COMMA = "comma";
 	final static String SPACE = "space";
 	final static String OTHER = "other";
+
+	
+	public static void main(String[] args) {
+		testCalculate();
+	}
 
 	/**
 	 * 計算のテスト
 	 *
 	 */
-	public static void main(String[] args) {
-		String text = getLineInput();
+	public static  void testCalculate() {
+		String text = "";
+		int num1 = 0;
+		String num2 = "";
+		try {
+			text = getLineInput();
+		} catch (InputMismatchException e) {
+			System.out.println("テキストが入力されていません");
+			return;
+		}
 		String[] texts = {};
 		if (splitCheck(text).equals(COMMA)) {
 			texts = splitComma(text);
@@ -30,8 +44,17 @@ public class Calculator {
 		for (int i = 0; i < texts.length; i++) {
 			System.out.println(i + ":" + texts[i]);
 		}
-		int num1 = getIntInput();
-		String num2 = getStrInput();
+		try {
+			num1 = getIntInput();
+		} catch (InputMismatchException e) {
+			System.out.println("数値が入力されていません");
+			return;
+		}
+		try {
+			num2 = getStrInput();
+		} catch (InputMismatchException e) {
+			System.out.println("文字列が入力されていません");
+		}
 		String strNum1 = "";
 		int intNum2 = 0;
 		if (isNumeric(num2) == true) {
@@ -41,6 +64,7 @@ public class Calculator {
 			strNum1 = intToStr(num1);
 			System.out.println(strLinking(strNum1,num2));
 		}
+
 	}
 
 	/**
@@ -50,11 +74,6 @@ public class Calculator {
 		System.out.println("文字列を入力してください");
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
-//		try {
-//			sc.next();
-//		} catch (InputMismatchException e) {
-//			
-//		}
 		return sc.next();
 	}
 	/**
@@ -73,8 +92,7 @@ public class Calculator {
 		System.out.println("テキストを入力してください");
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
-		String line = sc.nextLine();
-		return line;
+		return sc.nextLine();
 	}
 
 	/**
@@ -96,7 +114,7 @@ public class Calculator {
 		int num = Integer.parseInt(str);
 		return num;
 	}
-	
+
 	/**
 	 * 数値を文字列に変換する
 	 */
@@ -153,7 +171,7 @@ public class Calculator {
 
 		return a + b;
 	}
-	
+
 	/**
 	 * 文字列連結
 	 * @param a 値1
