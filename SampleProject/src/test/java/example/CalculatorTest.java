@@ -47,4 +47,24 @@ class CalculatorTest {
 
 	    assertEquals("test", Calculator.getStrInput());
 	}
+	
+	@Test
+	@DisplayName("数値の合計値となること")
+	public void testCalculate1() {
+	    int num1 = 158;
+	    String num2 = "242";
+	    String result = Calculator.testCalculate(num1, num2);
+
+	    assertThat(result, is("400"));
+	}
+	
+	@Test
+	@DisplayName("文字列連結されること")
+	public void testCalculate2() {
+	    int num1 = 177;
+	    String num2 = "こんにちは";
+	    String result = Calculator.testCalculate(num1, num2);
+
+	    assertThat(result, is("177こんにちは"));
+	}
 }

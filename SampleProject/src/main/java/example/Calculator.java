@@ -12,57 +12,48 @@ public class Calculator {
 	final static String COMMA = "comma";
 	final static String SPACE = "space";
 	final static String OTHER = "other";
+	final static String STRING = "文字列";
+	final static String INT = "数値";
+	final static String TEXT = "テキスト";
+	final static String ORDER_INPUT = "を入力してください";
+	final static String NO_INPUT = "が入力されていません";
+	final static String WRONG = "が間違っています";
 
-	
+
 	public static void main(String[] args) {
-		testCalculate();
+		int num1 = 0;
+		String num2 = "";
+		try {
+			num1 = getIntInput();
+		} catch (InputMismatchException e) {
+			System.out.println(INT + NO_INPUT);
+			return;
+		}
+		try {
+			num2 = getStrInput();
+		} catch (InputMismatchException e) {
+			System.out.println(STRING + NO_INPUT);
+		}
+
+		testCalculate(num1, num2);
 	}
 
 	/**
 	 * 計算のテスト
 	 *
 	 */
-	public static  void testCalculate() {
-		String text = "";
-		int num1 = 0;
-		String num2 = "";
-		try {
-			text = getLineInput();
-		} catch (InputMismatchException e) {
-			System.out.println("テキストが入力されていません");
-			return;
-		}
-		String[] texts = {};
-		if (splitCheck(text).equals(COMMA)) {
-			texts = splitComma(text);
-		} else if (splitCheck(text).equals(SPACE)) {
-			texts = splitSpace(text);
-		} else if (splitCheck(text).equals(OTHER)) {
-			System.out.println("意図した入力値ではありません");
-			return;
-		} 
-		for (int i = 0; i < texts.length; i++) {
-			System.out.println(i + ":" + texts[i]);
-		}
-		try {
-			num1 = getIntInput();
-		} catch (InputMismatchException e) {
-			System.out.println("数値が入力されていません");
-			return;
-		}
-		try {
-			num2 = getStrInput();
-		} catch (InputMismatchException e) {
-			System.out.println("文字列が入力されていません");
-		}
+	public static String testCalculate(int num1, String num2) {
 		String strNum1 = "";
 		int intNum2 = 0;
 		if (isNumeric(num2) == true) {
 			intNum2 = strToInt(num2);
-			System.out.println(absAdd(num1,intNum2));
+			int sum = absAdd(num1,intNum2);
+			String strSum = intToStr(sum);
+			return strSum;
 		} else {
 			strNum1 = intToStr(num1);
-			System.out.println(strLinking(strNum1,num2));
+			String sum = strLinking(strNum1,num2);
+			return sum;
 		}
 
 	}
@@ -71,7 +62,7 @@ public class Calculator {
 	 * 文字列を入力させる
 	 */
 	public static String getStrInput() {
-		System.out.println("文字列を入力してください");
+		System.out.println(STRING + ORDER_INPUT);
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		return sc.next();
@@ -80,7 +71,7 @@ public class Calculator {
 	 * 数値を入力させる
 	 */
 	public static int getIntInput() {
-		System.out.println("数値を入力してください");
+		System.out.println(INT + ORDER_INPUT);
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		return sc.nextInt();
@@ -89,7 +80,7 @@ public class Calculator {
 	 * テキストを入力させる
 	 */
 	public static String getLineInput() {
-		System.out.println("テキストを入力してください");
+		System.out.println(TEXT + ORDER_INPUT);
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		return sc.nextLine();
@@ -161,14 +152,12 @@ public class Calculator {
 	 * @param b 値2
 	 */
 	public static int absAdd(int a, int b) {
-
 		if (a < 0) {
 			a = a * -1;
 		}
 		if (b < 0) {
 			b = b * -1;
 		}
-
 		return a + b;
 	}
 
