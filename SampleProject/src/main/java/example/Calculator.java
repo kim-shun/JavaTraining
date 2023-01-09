@@ -169,5 +169,4 @@ public class Calculator {
 	public static String strLinking(String a, String b) {
 		return a + b;
 	}
-
 }
